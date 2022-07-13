@@ -1,0 +1,10 @@
+this is an javascript based prioject using array and fetch api
+there are five btn 
+1.AdD User-  ----------------fetch data from random user and add a single data 
+                         (personname and money)aftre almost every 1s of click 
+2.Show the lakhpati----------show only those who have earnd more than 10lakhs
+3.sort by richest------------show them from lowest to highest eanred income
+4.calculate the total paisa--calculate the total amt with go back btn 
+                             which again hides the totalamt section
+5.double the rokda-----------doubles thhe money and is hidden after one click 
+6.refresh--------------------refresh the page 

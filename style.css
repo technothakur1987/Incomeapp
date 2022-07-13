@@ -1,0 +1,39 @@
+.show1{
+    text-align: center;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-items: center;
+   
+}
+.show1 h3{
+    font-size: 1rem;
+}
+.show1 h2{
+    font-size: 1rem;
+}
+#totalpaisa{
+    height: 50vmin!important;
+    width:50vmin!important;
+    background-color: aqua!important;
+    color: brown!important;
+    font-weight: bolder!important;
+    position: absolute!important;
+    top:50%!important;
+    left:50%!important;
+    border: 5px solid blue!important;
+    display: flex!important;
+    flex-direction: column!important;
+    justify-content: center!important;
+    align-items: center!important;
+}
+#refresh{
+    height: 10vh!important;
+    width:10vh!important;
+    border-radius: 50%!important;
+    background-color: brown;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    color: white;
+}
